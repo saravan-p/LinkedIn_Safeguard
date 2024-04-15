@@ -21,3 +21,5 @@ We did a bunch of homework! We sent out surveys in classes and neighborhoods to 
 ## Conclusion
 
 LinkedGuard is here to make your LinkedIn experience safer. By smartly identifying risky companies and managing how resumes are shared, we’re putting privacy and security at the forefront of your professional networking. Dive in and see how we’re making LinkedIn a safer place for everyone’s career growth!
+
+Read our full report on :  https://github.com/saravan-p/LinkedIn_Safeguard/blob/main/Linked_Guard.pdf
